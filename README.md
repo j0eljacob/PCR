@@ -1,1 +1,1 @@
-# Semi Automated Real time PCR Machine
+# Semi Automated Real-time PCR Machine
